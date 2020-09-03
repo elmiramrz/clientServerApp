@@ -1,0 +1,13 @@
+C:\Users\sound\source\repos\socketSample\socketSample\bin\Debug\netcoreapp3.1\socketSample.exe
+C:\Users\sound\source\repos\socketSample\socketSample\bin\Debug\netcoreapp3.1\socketSample.deps.json
+C:\Users\sound\source\repos\socketSample\socketSample\bin\Debug\netcoreapp3.1\socketSample.runtimeconfig.json
+C:\Users\sound\source\repos\socketSample\socketSample\bin\Debug\netcoreapp3.1\socketSample.runtimeconfig.dev.json
+C:\Users\sound\source\repos\socketSample\socketSample\bin\Debug\netcoreapp3.1\socketSample.dll
+C:\Users\sound\source\repos\socketSample\socketSample\bin\Debug\netcoreapp3.1\socketSample.pdb
+C:\Users\sound\source\repos\socketSample\socketSample\obj\Debug\netcoreapp3.1\socketSample.csprojAssemblyReference.cache
+C:\Users\sound\source\repos\socketSample\socketSample\obj\Debug\netcoreapp3.1\socketSample.AssemblyInfoInputs.cache
+C:\Users\sound\source\repos\socketSample\socketSample\obj\Debug\netcoreapp3.1\socketSample.AssemblyInfo.cs
+C:\Users\sound\source\repos\socketSample\socketSample\obj\Debug\netcoreapp3.1\socketSample.csproj.CoreCompileInputs.cache
+C:\Users\sound\source\repos\socketSample\socketSample\obj\Debug\netcoreapp3.1\socketSample.dll
+C:\Users\sound\source\repos\socketSample\socketSample\obj\Debug\netcoreapp3.1\socketSample.pdb
+C:\Users\sound\source\repos\socketSample\socketSample\obj\Debug\netcoreapp3.1\socketSample.genruntimeconfig.cache
